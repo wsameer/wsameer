@@ -1,15 +1,15 @@
-### Hi, I'm Sameer 👋 👨‍💻
+## Hi, I'm Sameer 👋 👨‍💻
 
-🐱‍👤 I am a JavaScript ninja who is passionate about developing things that dwell on the internet. 
+🐱‍👤 I am a JavaScript ninja who is passionate about buidling things that dwell on the internet.
 
-🌱 Be it a static or a dynamic web application, custom component/plugin, responsive website, or anything in between, I have got it all covered. Some technologies I enjoy working with include JavaScript, Angular, ReactJS, Jamstack (JavaScript, APIs + Markup), HTML/CSS, GraphQL.
+🌱 Some technologies I enjoy working with include JavaScript, Angular, ReactJS, Jamstack (JavaScript, APIs + Markup), HTML/CSS, GraphQL.
 
 🎯 My aim is to deliver pixel perfect user interfaces built on top of modern JavaScript based frameworks ensuring responsiveness and cross-browser support.
 
+### 🌏 Find me around the web:
+- Sharing updates on [Linkedin](https://www.linkedin.com/in/wsameer)
 
 <!--
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
