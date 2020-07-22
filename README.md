@@ -1,7 +1,14 @@
 ### Hi, I'm Sameer 👋 👨‍💻
 
+🐱‍👤 I am a JavaScript ninja who is passionate about developing things that dwell on the internet. 
+
+🌱 Be it a static or a dynamic web application, custom component/plugin, responsive website, or anything in between, I have got it all covered. Some technologies I enjoy working with include JavaScript, Angular, ReactJS, Jamstack (JavaScript, APIs + Markup), HTML/CSS, GraphQL.
+
+🎯 My aim is to deliver pixel perfect user interfaces built on top of modern JavaScript based frameworks ensuring responsiveness and cross-browser support.
+
+
 <!--
-**wsameer/wsameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
