@@ -4,12 +4,9 @@ I am a JavaScript ninja who is passionate about buidling things that dwell on th
 
 - 🔭 I’m currently working on creating my profolio using JAMstack
 - 🌱 I’m currently learning Gatsby
-- 👯 I’m looking to collaborate on React web applications
+- 👯 I’m looking to collaborate on anthing build on JavaScript
 - Sharing updates on [Linkedin](https://www.linkedin.com/in/wsameer)
 - 📫 How to reach me: [dev.wsameer@gmail.com](mailto:dev.wsameer@gmail.com)
-
-![Sameer's github stats]
-(https://github-readme-stats.vercel.app/api?username=wsameer@show_icons=true&theme=tokyonight)
 
 <!--
 Here are some ideas to get you started:
