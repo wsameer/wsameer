@@ -6,8 +6,6 @@ I am a JavaScript ninja who is passionate about buidling things that dwell on th
 - 👔 Check my updates on [Linkedin](https://www.linkedin.com/in/wsameer)
 - 📫 How to reach me: [dev.wsameer@gmail.com](mailto:dev.wsameer@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsameer&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
