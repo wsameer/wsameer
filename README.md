@@ -1,5 +1,7 @@
 # Hi, I'm [Sameer](https://wsameer.github.io/v1/) 👋 👨‍💻
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=wsameer.wsameer) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/wsameer)
+
 I am a Software Engineer who is passionate about building things that dwell on the internet. Some technologies I enjoy working with include JavaScript, Angular, ReactJS, Jamstack (JavaScript, APIs + Markup), HTML/CSS, GraphQL.
 
 - 👯 I’m looking to collaborate on projects build on JavaScript and React.
