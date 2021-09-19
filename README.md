@@ -1,6 +1,6 @@
 # Hi, I'm [Sameer](https://wsameer.github.io/v1/) 👋 👨‍💻
 
-I am a JavaScript ninja who is passionate about building things that dwell on the internet. Some technologies I enjoy working with include JavaScript, Angular, ReactJS, Jamstack (JavaScript, APIs + Markup), HTML/CSS, GraphQL.
+I am a Software Engineer who is passionate about building things that dwell on the internet. Some technologies I enjoy working with include JavaScript, Angular, ReactJS, Jamstack (JavaScript, APIs + Markup), HTML/CSS, GraphQL.
 
 - 👯 I’m looking to collaborate on projects build on JavaScript and React.
 - 👔 Check my updates on [Linkedin](https://www.linkedin.com/in/wsameer)
