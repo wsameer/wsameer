@@ -4,8 +4,29 @@
 
 I am a Software Engineer who is passionate about building things that dwell on the internet. Some technologies I enjoy working with include JavaScript, ReactJS, Angular, Jamstack (JavaScript, APIs + Markup), HTML/CSS, GraphQL.
 
-- 👯 I’m looking to collaborate on projects build on JavaScript and React.
-- 📫 How to reach me: [dev.wsameer@gmail.com](mailto:dev.wsameer@gmail.com)
+```
+const SAMEER = {
+    fullName: 'Sameer Waskar',
+    pronouns: 'He' | 'Him',
+    techStack: {
+        frontEnd: {
+            code: [JavaScript, TypeScript, HTML, CSS],
+            libraries: [React, Redux, Testing Library],
+            frameworks: [Angular, Tailwind CSS, Next.js, Jest]
+        },
+        backEnd: {
+            code: [NodeJS, Kotlin],
+            frameworks: [Express.js, Next.js, Micronaut],
+            databases: [PostgreSQL, Redis, MySQL]
+        }
+    },
+    tools: [Git, Storybook, Styled-Components, Figma, Invision],
+    architecture: ['REST API', 'event driven', 'microservices', 'SPA'],
+    askMeAbout: ['javascript', 'web development', 'tech', 'photography'],
+    funFact: 'Prefers tabs over spaces'
+};
+
+```
 
 
 ## Connect with me  
