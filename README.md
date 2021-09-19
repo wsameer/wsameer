@@ -8,10 +8,24 @@ I am a Software Engineer who is passionate about building things that dwell on t
 - 👔 Check my updates on [Linkedin](https://www.linkedin.com/in/wsameer)
 - 📫 How to reach me: [dev.wsameer@gmail.com](mailto:dev.wsameer@gmail.com)
 
-<!--
-Here are some ideas to get you started:
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Connect with me  
+<div align="left">
+<a href="https://github.com/wsameer" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/SameerWaskar" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/wsameer" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/https://codepen.io/wsameer" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+<br />
+
+## Github Stats  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=wsameer&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
