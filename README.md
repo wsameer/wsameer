@@ -4,7 +4,7 @@
 
 I am a Software Engineer who is passionate about building things that dwell on the internet. Some technologies I enjoy working with include JavaScript, ReactJS, Angular, Jamstack (JavaScript, APIs + Markup), HTML/CSS, GraphQL.
 
-```
+```javascript
 const SAMEER = {
     fullName: 'Sameer Waskar',
     pronouns: 'He' | 'Him',
