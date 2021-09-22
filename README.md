@@ -15,8 +15,8 @@ const SAMEER = {
             frameworks: [Angular, Tailwind CSS, Next.js, Jest]
         },
         backEnd: {
-            code: [NodeJS, Kotlin],
-            frameworks: [Express.js, Next.js, Micronaut],
+            code: [NodeJS, PHP],
+            frameworks: [Express.js, Next.js],
             databases: [PostgreSQL, Redis, MySQL]
         }
     },
