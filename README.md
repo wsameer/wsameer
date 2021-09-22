@@ -22,7 +22,11 @@ const SAMEER = {
     },
     tools: [Git, Storybook, Styled-Components, Figma, Invision],
     architecture: ['REST API', 'event driven', 'microservices', 'SPA'],
-    askMeAbout: ['javascript', 'web development', 'tech', 'photography'],
+    askMeAbout: ['javascript', 'web development', 'tech', 'photography', 'Premier League'],
+    contact: {
+        email: `dev.wsameer@gmail.com`,
+        twitter: @SameerWaskar
+    },
     funFact: 'Prefers tabs over spaces'
 };
 
