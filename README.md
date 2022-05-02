@@ -2,12 +2,13 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wsameer.wsameer) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/wsameer)
 
-I am a Software Engineer who is passionate about building things that dwell on the internet. Some technologies I enjoy working with include JavaScript, ReactJS, Angular, Jamstack (JavaScript, APIs + Markup), HTML/CSS, GraphQL.
+I am a Polyglot Engineer who is passionate about building things that dwell on the internet. Some technologies I enjoy working with include JavaScript, TypeScript, ReactJS, Angular, NodeJS, HTML/CSS, GraphQL.
 
 ```javascript
 const SAMEER = {
     fullName: 'Sameer Waskar',
     pronouns: 'He' | 'Him',
+    location: 'Toronto, Canada',
     techStack: {
         frontEnd: {
             code: [JavaScript, TypeScript, HTML, CSS],
