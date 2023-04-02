@@ -16,8 +16,8 @@ const SAMEER = {
             frameworks: [Angular, Tailwind CSS, Next.js, Jest]
         },
         backEnd: {
-            code: [NodeJS, PHP],
-            frameworks: [Express.js, Next.js],
+            code: [NodeJS, Java],
+            frameworks: [Express.js, Spring Boot],
             databases: [PostgreSQL, Redis, MySQL]
         }
     },
@@ -26,7 +26,7 @@ const SAMEER = {
     askMeAbout: ['javascript', 'web development', 'tech', 'photography', 'Premier League'],
     contact: {
         email: `dev.wsameer@gmail.com`,
-        twitter: @SameerWaskar
+        twitter: @dammitsameer
     },
     funFact: 'Prefers tabs over spaces'
 };
